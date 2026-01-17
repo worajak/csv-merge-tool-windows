@@ -11,6 +11,8 @@ Designed for users who work with CSV data and do not want to write code.
 - Works fully offline
 - No Python installation required
 
+<img width="372" height="229" alt="image" src="https://github.com/user-attachments/assets/3a829702-9e59-40c9-8a7c-3422ab0d1ca7" />
+
 ## Download
 👉 Download the latest Windows executable here:  
 https://worajak.gumroad.com/l/kdogvj
