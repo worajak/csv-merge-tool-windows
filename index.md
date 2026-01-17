@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="wdObW1ltA0TsipjTjvUm57CHJ9RqqAS_OPV0IyZwrjA" />
-
 # CSV Merge Tool (Windows)
 
 A simple offline tool to merge multiple CSV files safely.  
