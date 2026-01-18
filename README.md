@@ -5,7 +5,7 @@ A simple offline tool to merge multiple CSV files into one.
 Designed for users who work with CSV data and do not want to write code.
 
 🌐 Project website:
-<a href="https://worajak.github.io/csv-merge-tool-windows" target="+blank">https://worajak.github.io/csv-merge-tool-windows</a>
+<a href="https://worajak.github.io/csv-merge-tool-windows" target="_blank">https://worajak.github.io/csv-merge-tool-windows</a>
 
 ## Features
 - Merge multiple CSV files with identical structure
